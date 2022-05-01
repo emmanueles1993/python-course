@@ -1,5 +1,13 @@
-contador = 1
-print(contador)
-while contador < 1001:
-    print(contador)
-    contador = contador +1
+# contador = 1
+# print(contador)
+# while contador < 1001:
+#     contador += 1
+#     print(contador)
+
+# a = list(range(1000)) #convertido a lista
+# print(a)
+
+# for contador in range( 1 , 1001):
+#     print(contador)
+for i in range (1, 10): 
+    print(i * 11)
